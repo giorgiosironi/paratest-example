@@ -1,0 +1,8 @@
+{
+    "name": "giorgiosironi/paratestexample",
+    "require": {
+        "brianium/paratest": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
+
