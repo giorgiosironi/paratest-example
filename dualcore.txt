@@ -1,0 +1,25 @@
+[21:13:25][giorgio@Desmond:~/paratestexample]$ ./compare.sh 
+PHPUnit 3.7.13-5-g6937c46 by Sebastian Bergmann.
+
+..........
+
+Time: 03:04, Memory: 3.25Mb
+
+OK (10 tests, 20971520 assertions)
+
+Running phpunit in 1 process with /home/giorgio/paratestexample/vendor/bin/phpunit
+
+..........
+
+Time: 03:01, Memory: 3.75Mb
+
+OK (10 tests, 20971520 assertions)
+
+Running phpunit in 2 processes with /home/giorgio/paratestexample/vendor/bin/phpunit
+
+..........
+
+Time: 02:15, Memory: 3.75Mb
+
+OK (10 tests, 20971520 assertions)
+
